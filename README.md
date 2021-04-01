@@ -141,3 +141,4 @@ Finally, in the case of BWA, the necessary command is:<br>
 ### Shiny app
 To observe the results of the analysis in an interactive form, it is possible to launch a [shiny app](shiny.md).
 
+
